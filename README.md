@@ -11,7 +11,7 @@ Programación en C ,Clase 03  funciones
   
   -4 trabajo en la carpeta
   
-  -5 agrego cambios y archivos
+  -5 agrego cambios y archivos    --> Entrar al archivo y hacerle cambios.
 
   (git add . ) 
   
